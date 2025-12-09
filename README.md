@@ -9,10 +9,6 @@
 -->
 ### Hola a todos, abro este espacio para documentar todos los proyectos, archivos que haga en mi canal de Youtube, tanto de tkinter, Flet, Arduino, OpenCv y mas.
 
-### - Hobbies : 
-- ✨ Gaming
-- ✨ Watching Anime
-
 <!--
 **Francisco802/Francisco802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
