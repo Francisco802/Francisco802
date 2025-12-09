@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-
+<!--
 <div align="center">
 <img hight="73" width="615" alt="png" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
 </br>
-
+-->
 ### Hola a todos, abro este espacio para documentar todos los proyectos, archivos que haga en mi canal de Youtube, tanto de tkinter, Flet, Arduino, OpenCv y mas.
 
 <!--
